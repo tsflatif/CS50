@@ -1,0 +1,11 @@
+<?php
+    print("Symbol : ". $symbol);
+    print("<br>");
+    print("Name : ". $name);
+    print("<br>");
+    print("Price : ". number_format($price,4));
+?>
+</br>
+<div>
+    <a href="index.php">Back to main</a>
+</div>
